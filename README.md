@@ -1,3 +1,3 @@
 # NodeApi
 
-A simple node api build using pure node js.
+A simple node api built using pure node js.
